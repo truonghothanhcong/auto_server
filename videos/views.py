@@ -30,3 +30,7 @@ class ListVideosView(APIView):
     def delete(self, request):
         serializer = request.data
         return Response(serializer.get('id'))
+
+
+class IndexView():
+    pass

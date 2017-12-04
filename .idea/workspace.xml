@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf5d5063-7107-43b6-9a4a-1159df209b8f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/urls.py" afterPath="$PROJECT_DIR$/videos/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos/views.py" afterPath="$PROJECT_DIR$/videos/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/videos/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="126">
+              <caret line="7" column="62" lean-forward="false" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
               <folding>
                 <element signature="e#1#33#0" expanded="true" />
               </folding>
@@ -44,8 +45,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/videos/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -84,8 +85,8 @@
         <option value="$PROJECT_DIR$/auto_server/urls.py" />
         <option value="$PROJECT_DIR$/auto_server/settings.py" />
         <option value="$PROJECT_DIR$/videos/models.py" />
-        <option value="$PROJECT_DIR$/videos/urls.py" />
         <option value="$PROJECT_DIR$/videos/serializers.py" />
+        <option value="$PROJECT_DIR$/videos/urls.py" />
         <option value="$PROJECT_DIR$/videos/views.py" />
       </list>
     </option>
@@ -372,13 +373,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/videos/views.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
@@ -515,12 +509,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/urls.py">
+    <entry file="file://$PROJECT_DIR$/videos/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="216">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <element signature="e#1#33#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -535,20 +529,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/videos/serializers.py">
+    <entry file="file://$PROJECT_DIR$/videos/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="126">
+          <caret line="7" column="62" lean-forward="false" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#1#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/videos/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="418">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>

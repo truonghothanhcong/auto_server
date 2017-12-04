@@ -26,3 +26,7 @@ class ListVideosView(APIView):
             serializer.save()
         videos = [video.to_dict() for video in models.Video.objects.all()]
         return Response(videos)
+
+    def delete(self, request):
+        serializer = request.data
+        return Response(serializer.get('id'))
